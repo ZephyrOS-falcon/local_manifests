@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+
+     <!-- Moto G 2013 ("falcon") -->
+     <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-13.0"/>
+     <project path="kernel/motorola/msm8226" name="ZephyrOS-falcon/android_kernel_motorola_msm8226" remote="github" revision="cm-13.0"/>
+     <project path="device/motorola/msm8226-common" name="ZephyrOS-falcon/android_device_motorola_msm8226-common" remote="github" revision="zos"/>
+     <project path="device/motorola/falcon" name="ZephyrOS-falcon/android_device_motorola_falcon" remote="github" revision="zos"/>
+
+</manifest>
