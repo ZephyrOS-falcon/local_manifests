@@ -9,8 +9,8 @@ Initializing:
 
 First, create a folder to hold the source code: 
 
-$ mkdir ~/zos
-$ cd ~/zos
+	$ mkdir ~/zos
+	$ cd ~/zos
 
 Initialize local repository:
 
@@ -33,5 +33,5 @@ _Building from source_
 
 First:
 
-$ cd ~/zos
-$ . /build.sh falcon
+	$ cd ~/zos
+	$ . /build.sh falcon
