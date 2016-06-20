@@ -1,4 +1,4 @@
-ZephyrOS for Surnia
+ZephyrOS for falcon
 =================================
 
 
