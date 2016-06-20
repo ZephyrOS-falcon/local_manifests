@@ -24,8 +24,6 @@ Sync up:
 
 	repo sync -f --force-sync --no-clone-bundle -j4
 	
-You can make the 4 higher depending on how fast your internet connection is. 
-
 -------------
  
 _Building from source_
